@@ -1,18 +1,18 @@
 {
-  "name": "君哥聊編程",
-  "short_name": "君哥",
+  "name": "凯哥学前端",
+  "short_name": "凯哥",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#2196f3",
-  "description": "君哥聊編程主页",
+  "description": "凯哥学前端主页",
   "theme_color": "blue",
-  "icons": [
-    {
-      "src": "./img/logo.png",
-      "sizes": "144x144",
-      "type": "image/png"
-    }
-  ],
+  // "icons": [
+  //   {
+  //     "src": "./img/logo.png",
+  //     "sizes": "144x144",
+  //     "type": "image/png"
+  //   }
+  // ],
   "related_applications": [
     {
       "platform": "web"
